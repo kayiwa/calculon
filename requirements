@@ -1,0 +1,14 @@
+Django==1.6.1
+South==0.8.4
+argparse==1.2.1
+distribute==0.6.24
+django-admin-bootstrapped==1.6.3
+django-report-builder==1.14
+mccabe==0.2.1
+openpyxl==1.7.0
+pep8==1.4.6
+pyflakes==0.7.3
+python-dateutil==2.2
+selenium==2.39.0
+six==1.4.1
+wsgiref==0.1.2
